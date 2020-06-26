@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Birdtopia",
+      "image": "Images/birdtopia.jpg",
+      "assignment": "Project 1",
+      "url": "https://jepps2020.github.io/Project_1GWU/"
+    },
+    {
+      "id": 2,
+      "name": "Coffee Express",
+      "image": "Images/coffee.jpg",
+      "assignment": "Project 2",
+      "url": "https://shrouded-ocean-64037.herokuapp.com"
+    },
+    {
+      "id": 3,
+      "name": "Burger App",
+      "image": "Images/Burger.jpg",
+      "assignment": "Burger Handlebars",
+      "url": "https://limitless-waters-26304.herokuapp.com/"
+    }
+  ]
