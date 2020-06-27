@@ -2,6 +2,7 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Title from "../components/Title";
 
 function About() {
   return (
@@ -9,7 +10,7 @@ function About() {
       <Container>
         <Row>
           <Col size="md-12">
-            <h1>Welcome to my portfolio page!</h1>
+            <Title children= "Welcome to my portfolio page!"/>
           </Col>
         </Row>
         <Row>

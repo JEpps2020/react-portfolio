@@ -2,3 +2,9 @@ nav.navbar.navbar-default {
   margin-bottom: 0;
   background-color: peachpuff
 }
+
+a {
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  color: brown;
+}
