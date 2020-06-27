@@ -15,7 +15,7 @@ function About() {
         </Row>
         <Row>
           <Col size="md-3">
-          <img alt="Third Culture Kid Diagram" src="images/TCK.jpeg" className="img-fluid" />
+          <img alt="Third Culture Kid Diagram" src="Images/TCK.jpeg" className="img-fluid" />
           </Col>
           <Col size="md-9">
             <p>
